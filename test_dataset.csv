@@ -1,0 +1,11 @@
+color,type,origin,stolen
+red,sports,dom,yes
+red,sports,dom,no
+red,sports,dom,yes
+yellow,sports,dom,no
+yellow,sports,imp,yes
+yellow,suv,imp,no
+yellow,suv,imp,yes
+yellow,suv,dom,no
+red,suv,imp,no
+red,sports,imp,yes
